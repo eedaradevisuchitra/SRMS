@@ -1,0 +1,45 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+*.app
+
+# Executables on different platforms
+*.bin
+*.com
+
+# VS Code and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Build directories
+build/
+dist/
+bin/
+
+# Dependencies
+node_modules/
